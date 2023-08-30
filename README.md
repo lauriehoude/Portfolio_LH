@@ -1,4 +1,4 @@
-# idée projet final
+# Idée projet final
 ## Concept 
 Projection vidéo sur 3 murs avec intéractivité
 ## Inspiration
