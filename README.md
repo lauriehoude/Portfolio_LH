@@ -16,7 +16,7 @@ Une ambiance tranquille avec de la musique douce , lumière douce pour un moment
 ### Technique 
 - Détection de mouvement
 - projection vidéo
-- -3d
+- 3d
 - ambiance sonore 360
 - contrôle des vidéos avec manette ou autre 
 
