@@ -11,7 +11,7 @@ Mon idée ressemble à celle d'Écomarine dans le sens sa va être des projectio
 Aussi je pensais aussi qu'il pourrait avoir des lumières qui s'allument ou s'éteignent qunad l'interacteur arrive ou repart ou bien une video qui commence quand une personne s'assoie sur le pouf ou  quand il entre dans la zone de visionement.
 ### Inspiration pour la 3d 
 
-<img src="media/cercle_colorer.jpg" width="400px"></img> <img src="media/montagne_ish.jpg" width="400px"></img> <img src="media/cube_lumiere.jpg" width="400px"></img>
+<img src="media/cercle_colorer.jpg" width="32%"></img> <img src="media/montagne_ish.jpg" width="400px"></img> <img src="media/cube_lumiere.jpg" width="400px"></img>
 >  crédit photo: unsplash)
 ## Ambiance
 Une ambiance tranquille avec de la musique douce , lumière douce pour un moment de detente. l'intéracteur aura le choix de choisir la vidéo qu'il veut écouter ou tout simplement les faire jouer dans l'ordre qu'il veut.
