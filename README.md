@@ -5,17 +5,19 @@ Projection vidéo sur 3 murs avec intéractivité
 
 
 
-[![IMAGE ALT TEXT HERE](http://img.www.youtube.com/embed/8IeWIiVk88w?si=F7jPEzLGUJ4MlTmq/0.jpg)](https://www.youtube.com/embed/8IeWIiVk88w?si=F7jPEzLGUJ4MlTmq)
-
-
-[![truc enfant](https://youtu.be/8IeWIiVk88w?si=QY-tr7kirHk5X6xm/0.jpeg](https://youtu.be/8IeWIiVk88w?si=QY-tr7kirHk5X6xm) nature graphique
-
+[![IMAGE ALT TEXT HERE](http://img.player.vimeo.com/video/83546350?/0.jpg)](https://player.vimeo.com/video/83546350?)
+dans la video on voit que plusieur méthode d'intéraction on été utiliser et plusieur en même temps se qui peut être quelque chose à explorer si on veut que plusieurs personne puisse avoir le contrôle.
 
 
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/8IeWIiVk88w?si=QY-tr7kirHk5X6xm](https://youtu.be/ioGUAQPRs98?si=kFZVXFrRsEkCJ9RI) 
+
+
+
+[![IMAGE ALT TEXT HERE](https://youtu.be/8IeWIiVk88w?si=QY-tr7kirHk5X6xm](https://youtu.be/ioGUAQPRs98?si=kFZVXFrRsEkCJ9RI)
+On vois a l'aide de détecteur de mouvement que l'effet de lumiere suis l'intéracteur. Donc peut t'être penser a faire une projection au sol aussi et utiliser cette technique pour créer de l'intéractiviter.
+
 [![fleur intéractive](https://youtu.be/8IeWIiVk88w?si=QY-tr7kirHk5X6xm](https://youtu.be/ADtM2_awSj8?si=Qq8HKzGsrokq-qFd) 
-https://www.youtube.com/watch?v=07hiEtggHXw
+pour cette video j'aimais qu'elle explique un peu les étape pour créer son intéractivité et son projet au complet et qu'elle nous montre sont processus de création.
 ## Mon idée 
 <img src="media/exposition_van_gogh.jpg" width="600px"></img> 
 >  crédit photo: [Site connaissance des arts](https://www.connaissancedesarts.com/arts-expositions/art-moderne/van-gogh-goya-magritte-10-expositions-numeriques-ou-lart-nous-emerveille-11165758/)
