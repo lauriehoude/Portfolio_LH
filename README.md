@@ -2,7 +2,7 @@
 ## Concept 
 Projection vidéo sur 3 murs avec intéractivité
 ## Inspiration
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8IeWIiVk88w?si=F7jPEzLGUJ4MlTmq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[https://youtu.be/8IeWIiVk88w?si=RGXYj6nfDXt8kb11](https://youtu.be/8IeWIiVk88w?si=RGXYj6nfDXt8kb11)
 ## Mon idée 
 <img src="media/exposition_van_gogh.jpg" width="600px"></img> 
 >  crédit photo: [Site connaissance des arts](https://www.connaissancedesarts.com/arts-expositions/art-moderne/van-gogh-goya-magritte-10-expositions-numeriques-ou-lart-nous-emerveille-11165758/)
