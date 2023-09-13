@@ -2,7 +2,9 @@
 ## Concept 
 Projection vidéo sur 3 murs avec intéractivité
 ## Inspiration
-[![](https://markdown-videos-api.jorgenkh.no/youtube/{video_id})](https://player.vimeo.com/video/83546350{video_id})
+<video width="320" height="240" controls>
+  <source src="https://player.vimeo.com/video/83546350" type="video/mp4">
+</video>
 
 ## Mon idée 
 <img src="media/exposition_van_gogh.jpg" width="600px"></img> 
