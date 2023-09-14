@@ -3,7 +3,7 @@
 Projection vidéo sur 3 murs avec intéractivité
 ## Inspiration
 
-
+notre thème serait le temps , par exemple qu'on prend plus le temps de contempler la vie. Donc notre but ça serait que la personne puisse prendre le temps d'apprecier et de participer à notre oeuvre.
 
 [![IMAGE ALT TEXT HERE](http://img.player.vimeo.com/video/83546350?/0.jpg)](https://player.vimeo.com/video/83546350?)
 dans la video on voit que plusieur méthode d'intéraction on été utiliser et plusieur en même temps se qui peut être quelque chose à explorer si on veut que plusieurs personne puisse avoir le contrôle.
