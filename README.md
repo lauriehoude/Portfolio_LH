@@ -6,14 +6,15 @@ Projection vidéo sur 3 murs avec intéractivité
 notre thème serait le temps , par exemple qu'on prend plus le temps de contempler la vie. Donc notre but ça serait que la personne puisse prendre le temps d'apprecier et de participer à notre oeuvre.
 
 [![IMAGE ALT TEXT HERE](https://i0.wp.com/www.nature-graphique.com/wp-content/uploads/2014/01/kids.jpg?resize=660%2C660&ssl=1)](https://www.youtube.com/watch?v=8IeWIiVk88w)
-dans la video on voit que plusieur méthode d'intéraction on été utiliser et plusieur en même temps se qui peut être quelque chose à explorer si on veut que plusieurs personne puisse avoir le contrôle.
+
+Dans la video on voit que plusieur méthode d'intéraction on été utiliser et plusieur en même temps se qui peut être quelque chose à explorer si on veut que plusieurs personne puisse avoir le contrôle.
 
 
 
 
 
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/8IeWIiVk88w?si=QY-tr7kirHk5X6xm](https://youtu.be/ioGUAQPRs98?si=kFZVXFrRsEkCJ9RI)
+[![IMAGE ALT TEXT HERE](https://digitalessence.fr/wp-content/uploads/2020/04/DSC01190-1024x576.jpg](https://youtu.be/ioGUAQPRs98?si=kFZVXFrRsEkCJ9RI)
 On vois a l'aide de détecteur de mouvement que l'effet de lumiere suis l'intéracteur. Donc peut t'être penser a faire une projection au sol aussi et utiliser cette technique pour créer de l'intéractiviter.
 
 [![fleur intéractive](https://youtu.be/8IeWIiVk88w?si=QY-tr7kirHk5X6xm](https://youtu.be/ADtM2_awSj8?si=Qq8HKzGsrokq-qFd) 
