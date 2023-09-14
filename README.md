@@ -10,11 +10,11 @@ notre thème serait le temps , par exemple qu'on prend plus le temps de contempl
 Dans la video on voit que plusieur méthode d'intéraction on été utiliser et plusieur en même temps se qui peut être quelque chose à explorer si on veut que plusieurs personne puisse avoir le contrôle.
 
 
+[![IMAGE ALT TEXT HERE](https://digitalessence.fr/wp-content/uploads/2020/04/DSC01190-1024x576.jpg)](https://www.youtube.com/watch?v=ioGUAQPRs98)
 
-[![IMAGE ALT TEXT HERE](https://digitalessence.fr/wp-content/uploads/2020/04/DSC01190-1024x576.jpg](https://www.youtube.com/watch?v=ioGUAQPRs98)
 On vois a l'aide de détecteur de mouvement que l'effet de lumiere suis l'intéracteur. Donc peut t'être penser a faire une projection au sol aussi et utiliser cette technique pour créer de l'intéractiviter.
 
-[![fleur intéractive](https://youtu.be/8IeWIiVk88w?si=QY-tr7kirHk5X6xm](https://youtu.be/ADtM2_awSj8?si=Qq8HKzGsrokq-qFd) 
+[![fleur intéractive](https://scontent.fyhu1-1.fna.fbcdn.net/v/t1.6435-9/158460682_2047760208736382_3558965053318329056_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=cG2y1wax2K0AX9bFKwp&_nc_ht=scontent.fyhu1-1.fna&oh=00_AfC8FrhZRsFCCHQ1ptrpTtuzV_5FtXCiCVy59pqoZZgXnw&oe=652A6B08](https://youtu.be/ADtM2_awSj8?si=Qq8HKzGsrokq-qFd) 
 pour cette video j'aimais qu'elle explique un peu les étape pour créer son intéractivité et son projet au complet et qu'elle nous montre sont processus de création.
 ## Mon idée 
 <img src="media/exposition_van_gogh.jpg" width="600px"></img> 
