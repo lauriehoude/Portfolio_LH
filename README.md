@@ -4,7 +4,7 @@ Projection vidéo sur 3 murs avec intéractivité
 ## Thème 
 Notre thème serait basser sur le bien être , la relaxation 
 
-recherche https://www.youtube.com/watch?v=RG5Fi-eCLbc, https://www.youtube.com/watch?v=H902ovpjU8o,https://www.youtube.com/watch?v=QjaTnrS0IZM 47:45, https://www.youtube.com/watch?v=lNLeRmnkug8
+recherche https://www.youtube.com/watch?v=RG5Fi-eCLbc, https://www.youtube.com/watch?v=H902ovpjU8o,https://www.youtube.com/watch?v=QjaTnrS0IZM 47:45, https://www.youtube.com/watch?v=lNLeRmnkug8,https://www.youtube.com/watch?v=i2aKqkSEq74
 
 [![IMAGE ALT TEXT HERE](https://i0.wp.com/www.nature-graphique.com/wp-content/uploads/2014/01/kids.jpg?resize=660%2C660&ssl=1)](https://www.youtube.com/watch?v=8IeWIiVk88w)
 
