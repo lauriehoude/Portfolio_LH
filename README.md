@@ -4,12 +4,20 @@ Projection vidéo sur 3 murs avec intéractivité
 ### Thème 
 Notre thème serait basser sur le bien être plus précisément la relaxation , le fait de penser un moment détendu toute en s'amusant.
 
-recherche https://www.youtube.com/watch?v=RG5Fi-eCLbc, https://www.youtube.com/watch?v=H902ovpjU8o,https://www.youtube.com/watch?v=QjaTnrS0IZM 47:45, https://www.youtube.com/watch?v=lNLeRmnkug8,https://www.youtube.com/watch?v=i2aKqkSEq74, https://www.youtube.com/watch?v=YU1mx2s6qTA, https://www.youtube.com/watch?v=SbYtIiZdrew,https://www.youtube.com/watch?v=jgm58cbu0kw
+recherche 
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi_webp/RG5Fi-eCLbc/sddefault.webp)](https://www.youtube.com/watch?v=RG5Fi-eCLbc)
+, https://www.youtube.com/watch?v=H902ovpjU8o,https://www.youtube.com/watch?v=QjaTnrS0IZM 47:45, https://www.youtube.com/watch?v=lNLeRmnkug8,https://www.youtube.com/watch?v=i2aKqkSEq74, https://www.youtube.com/watch?v=YU1mx2s6qTA, https://www.youtube.com/watch?v=SbYtIiZdrew,https://www.youtube.com/watch?v=jgm58cbu0kw
 
 ### Inspirations
+
 #### Conceptuelles 
 #### Artistique /estétiques
+
 #### Technique / technologique  
+- Détection de mouvement
+- projection vidéo
+- ambiance sonore 360
+
 
 
 [![IMAGE ALT TEXT HERE](https://i0.wp.com/www.nature-graphique.com/wp-content/uploads/2014/01/kids.jpg?resize=660%2C660&ssl=1)](https://www.youtube.com/watch?v=8IeWIiVk88w)
@@ -35,12 +43,8 @@ Aussi je pensais aussi qu'il pourrait avoir des lumières qui s'allument ou s'é
 >  crédit photo: unsplash)
 ## Ambiance
 Une ambiance tranquille avec de la musique douce , lumière douce pour un moment de detente. l'intéracteur aura le choix de choisir la vidéo qu'il veut écouter ou tout simplement les faire jouer dans l'ordre qu'il veut.
-## Techniques
-- Détection de mouvement
-- projection vidéo
-- 3d
-- ambiance sonore 360
-- contrôle des vidéos avec manette ou autre
+
+
 
   
 
