@@ -9,7 +9,7 @@ recherche https://www.youtube.com/watch?v=RG5Fi-eCLbc, https://www.youtube.com/w
 ### Inspirations
 #### Conceptuelles 
 #### Artistique /estétiques
-####Technique / technologique  
+#### Technique / technologique  
 
 
 [![IMAGE ALT TEXT HERE](https://i0.wp.com/www.nature-graphique.com/wp-content/uploads/2014/01/kids.jpg?resize=660%2C660&ssl=1)](https://www.youtube.com/watch?v=8IeWIiVk88w)
