@@ -1,9 +1,10 @@
-# Idée projet final
-## Concept 
+# Vidéo Intéractive
+## Présentation de la conceptualisation
 Projection vidéo sur 3 murs avec intéractivité
-## Inspiration
+## Thème 
+Notre thème serait basser sur le bien être , la relaxation 
 
-notre thème serait le temps , par exemple qu'on prend plus le temps de contempler la vie. Donc notre but ça serait que la personne puisse prendre le temps d'apprecier et de participer à notre oeuvre.
+recherche https://www.youtube.com/watch?v=RG5Fi-eCLbc, https://www.youtube.com/watch?v=H902ovpjU8o,https://www.youtube.com/watch?v=QjaTnrS0IZM 47:45, https://www.youtube.com/watch?v=lNLeRmnkug8
 
 [![IMAGE ALT TEXT HERE](https://i0.wp.com/www.nature-graphique.com/wp-content/uploads/2014/01/kids.jpg?resize=660%2C660&ssl=1)](https://www.youtube.com/watch?v=8IeWIiVk88w)
 
