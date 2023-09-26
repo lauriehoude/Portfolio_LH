@@ -7,16 +7,17 @@ Notre thème serait basser sur le bien être plus précisément la relaxation , 
 recherche 
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi_webp/RG5Fi-eCLbc/sddefault.webp)](https://www.youtube.com/watch?v=RG5Fi-eCLbc)
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/H902ovpjU8o/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF4oUjAP&rs=AOn4CLCiNy8ZdmihovaW07p99phSiV45pAo)
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/QjaTnrS0IZM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlUeq1fGoKy-bU2EaoBtuHYTS9-w)](https://www.youtube.com/watch?v=QjaTnrS0IZ)
 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/lNLeRmnkug8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx7UOL_BP6sDCPFe7JqQR9tI4L4Q)](https://www.youtube.com/watch?v=lNLeRmnkug8)
+
+
 , https://www.youtube.com/watch?v=lNLeRmnkug8,https://www.youtube.com/watch?v=i2aKqkSEq74, https://www.youtube.com/watch?v=YU1mx2s6qTA, https://www.youtube.com/watch?v=SbYtIiZdrew,https://www.youtube.com/watch?v=jgm58cbu0kw
 
 ### Inspirations
 
 #### Conceptuelles 
 #### Artistique /estétiques
-
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/QjaTnrS0IZM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlUeq1fGoKy-bU2EaoBtuHYTS9-w)](https://www.youtube.com/watch?v=QjaTnrS0IZ)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/lNLeRmnkug8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx7UOL_BP6sDCPFe7JqQR9tI4L4Q)](https://www.youtube.com/watch?v=lNLeRmnkug8)
 #### Technique / technologique  
 - Détection de mouvement
 - projection vidéo
