@@ -60,6 +60,7 @@ Pour cette video j'aimais qu'elle explique un peu les étape pour créer son int
 ## Concept spécifique  
 
 <img src="media/plan_projet.jpg" width="600px"></img> 
+> plan studio
 
 
 
