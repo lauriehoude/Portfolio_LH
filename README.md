@@ -1,23 +1,29 @@
 # Vidéo Intéractive
 ## Présentation de la conceptualisation
-Projection vidéo sur 3 murs avec intéractivité
+
 ### Thème 
 Notre thème serait basser sur le bien être plus précisément la relaxation , le fait de penser un moment détendu toute en s'amusant.
 
-recherche 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi_webp/RG5Fi-eCLbc/sddefault.webp)](https://www.youtube.com/watch?v=RG5Fi-eCLbc)
-> Firme :Raonsquare 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/H902ovpjU8o/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIF4oUjAP&rs=AOn4CLCiNy8ZdmihovaW07p99phSiV45pAo)](https://www.youtube.com/watch?v=H902ovpjU8o&t=1s)
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/i2aKqkSEq74/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtWQXjkkXwEiptAfqEv0ZQatccSA)](https://www.youtube.com/watch?v=i2aKqkSEq74)
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/SbYtIiZdrew/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCSQ9UIF8VI2gm0ot5jlblIF9Kd-Q)](https://www.youtube.com/watch?v=SbYtIiZdrew)
 
+
+
+
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/SbYtIiZdrew/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCSQ9UIF8VI2gm0ot5jlblIF9Kd-Q)](https://www.youtube.com/watch?v=SbYtIiZdrew)
+### Espace 
+On voudrait le faire dans le cyclo du grand Studio mais il pourrait être déplacer.
 
 ### Inspirations
 
 #### Conceptuelles 
 
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi_webp/RG5Fi-eCLbc/sddefault.webp)](https://www.youtube.com/watch?v=RG5Fi-eCLbc)
+> Firme :Raonsquare
+Ce que j'aimais dans cette oeuvre était les sons qui on rapport avec ce que la personne touche, cela m'a fait penser que sa pourrait être amusant de faire en sorte qu'il y aille plusieurs sont différent selon ou la personne touche l'oeuvre.
+
 [![IMAGE ALT TEXT HERE](https://i.pinimg.com/originals/de/0e/37/de0e370201fb1fbf37e90937a97103e0.jpg)](https://in.pinterest.com/pin/68740371195/)
 > Artiste: [Maxim Zhestkov](https://zhestkov.studio/)
+
+ce que j'aimais dans cette oeuvre etait que sa représente bien se qu'on voulais faire mais sa m'a donné l'idée qu'on pourrait avoir un cube ou rectangle géant dans le millieu du cyclo et sur se mur il y aurait l'intéractivité quand on touche le cube
 #### Artistique /estétiques
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/QjaTnrS0IZM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlUeq1fGoKy-bU2EaoBtuHYTS9-w)](https://www.youtube.com/watch?v=QjaTnrS0IZ)
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/lNLeRmnkug8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx7UOL_BP6sDCPFe7JqQR9tI4L4Q)](https://www.youtube.com/watch?v=lNLeRmnkug8)
