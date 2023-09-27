@@ -37,6 +37,8 @@ Ce que j'aimais de cette vidéo est que sa explique un peut comment ils ont fait
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/QjaTnrS0IZM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlUeq1fGoKy-bU2EaoBtuHYTS9-w)](https://www.youtube.com/watch?v=QjaTnrS0IZ)
 
 j'ai pris cette vidéo pour montrer un peu les animation que j'aimerais projeter
+
+
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/lNLeRmnkug8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx7UOL_BP6sDCPFe7JqQR9tI4L4Q)](https://www.youtube.com/watch?v=lNLeRmnkug8)
 
 #### Technique / technologique  
@@ -48,14 +50,6 @@ j'ai pris cette vidéo pour montrer un peu les animation que j'aimerais projeter
 
 
 
-[![IMAGE ALT TEXT HERE](https://i0.wp.com/www.nature-graphique.com/wp-content/uploads/2014/01/kids.jpg?resize=660%2C660&ssl=1)](https://www.youtube.com/watch?v=8IeWIiVk88w)
-
-Dans la video on voit que plusieur méthode d'intéraction on été utiliser et plusieur en même temps se qui peut être quelque chose à explorer si on veut que plusieurs personne puisse avoir le contrôle.
-
-
-[![IMAGE ALT TEXT HERE](https://digitalessence.fr/wp-content/uploads/2020/04/DSC01190-1024x576.jpg)](https://www.youtube.com/watch?v=ioGUAQPRs98)
-
-On vois a l'aide de détecteur de mouvement que l'effet de lumiere suis l'intéracteur. Donc peut t'être penser a faire une projection au sol aussi et utiliser cette technique pour créer de l'intéractiviter.
 
 [![fleur intéractive](https://scontent.fyhu1-1.fna.fbcdn.net/v/t1.6435-9/158460682_2047760208736382_3558965053318329056_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=cG2y1wax2K0AX9bFKwp&_nc_ht=scontent.fyhu1-1.fna&oh=00_AfC8FrhZRsFCCHQ1ptrpTtuzV_5FtXCiCVy59pqoZZgXnw&oe=652A6B08](https://youtu.be/ADtM2_awSj8?si=Qq8HKzGsrokq-qFd) 
 
