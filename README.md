@@ -20,6 +20,10 @@ On voudrait le faire dans le cyclo du grand Studio mais il pourrait être dépla
 >  crédit photo: [Site connaissance des arts](https://www.connaissancedesarts.com/arts-expositions/art-moderne/van-gogh-goya-magritte-10-expositions-numeriques-ou-lart-nous-emerveille-11165758/)
 
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/YU1mx2s6qTA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBqg2AArgIigIMCAAQARhlIGUoZTAP&rs=AOn4CLDHuXob9wcPr4PrslLJN9qC0-VSKQ)](https://www.youtube.com/watch?v=YU1mx2s6qTA)
+
+> Artiste :KN
+
+je suis tomber sur cette video et j'ai aimée la fluidité que les mouvements de l'animation et le fait que sa soit faite par projection et non qu'il y aille des sensor derrière le mur.
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi_webp/RG5Fi-eCLbc/sddefault.webp)](https://www.youtube.com/watch?v=RG5Fi-eCLbc)
 > Firme :Raonsquare
 
