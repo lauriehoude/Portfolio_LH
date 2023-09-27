@@ -62,6 +62,11 @@ Pour cette video j'aimais qu'elle explique un peu les étape pour créer son int
 <img src="media/plan_projet.jpg" width="600px"></img> 
 > plan studio
 
+## Reconnaissance de limites / défis 
+- Apprendre un nouveau logitiel
+- -projection dans le cyclo
+- l'hiver(botte dans le cyclo)
+- le fait de devoir toucher le mur pour activer les effets
 
 
 
