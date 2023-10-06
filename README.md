@@ -1,4 +1,7 @@
 ## Laurie ##
 
 
-### Mon objectif ###
+
+### Présentation ###
+
+Bonjour, bienvenue sur ma page portfolio! 
