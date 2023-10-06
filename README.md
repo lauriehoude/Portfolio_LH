@@ -14,3 +14,5 @@ Bonjour mon nom est Laurie Houde, j'ai 20 ans et je suis finissante en Technique
 
 [![EL natura](http://img.youtube.com/vi/mUgGSbJXOVc/0.jpg)](https://www.youtube.com/watch?v=mUgGSbJXOVc) 
  
+
+Le projet EL natura a été réalisé par moi et une autre de mes collègue. Ce projet a été filmé avec une macro ce qui permet de vraiment toutes les textures des éléments filmés.
