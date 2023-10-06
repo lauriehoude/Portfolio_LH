@@ -11,7 +11,6 @@ Bonjour mon nom est Laurie Houde, j'ai 20 ans et je suis finissante en Technique
 
 ### Mes projets en montage vidéo ###
 
-https://www.youtube.com/watch?v=mUgGSbJXOVc
 
 [![EL natura](http://img.youtube.com/vi/mUgGSbJXOVc/0.jpg)](https://www.youtube.com/watch?v=mUgGSbJXOVc) 
  
