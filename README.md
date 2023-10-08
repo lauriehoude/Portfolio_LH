@@ -5,6 +5,9 @@
 Bonjour, bienvenue sur ma page portfolio! Je vous invite à y découvrir tous mes oeuvres en montage vidéo.
 
 
+![lauriehoude](https://github.com/lauriehoude/Portfolio_lh.github.io/assets/89647723/32aeff0c-4bf3-4808-b85b-89432a30c2fa)
+
+
 
 
 ### Présentation ###
