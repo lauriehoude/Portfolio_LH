@@ -47,4 +47,4 @@ Le projet EL natura a été réalisé par moi et une autre de mes collègue. Ce 
 
 
 [![EL natura](http://img.youtube.com/vi/AXPsNn52qlw/0.jpg)](https://www.youtube.com/watch?v=AXPsNn52qlw) 
-https://www.youtube.com/watch?v=AXPsNn52qlw&feature=youtu.be
+
