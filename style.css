@@ -2,6 +2,9 @@ body {
     background-color: rgb(206, 187, 187);
     color: black;
     position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 h3 {
@@ -23,4 +26,8 @@ content {
 
 p {
     padding: 25px;
+}
+
+button {
+    width: 100%;
 }
