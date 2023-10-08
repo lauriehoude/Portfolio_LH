@@ -24,6 +24,10 @@ content {
     padding: 20px;
 }
 
+#mes-projets-en-montage-vidéo p img {
+    border-radius: 0;
+}
+
 p {
     padding: 25px;
 }
