@@ -1,9 +1,10 @@
 body {
     background-color: rgb(206, 187, 187);
     color: black;
+    position: relative;
 }
 
-*h3 {
+h3 {
     color: white;
 }
 
@@ -13,4 +14,13 @@ img {
 
 .anchor span {
     color: black;
+    text-align: center;
+}
+
+content {
+    padding: 20px;
+}
+
+p {
+    padding: 25px;
 }
