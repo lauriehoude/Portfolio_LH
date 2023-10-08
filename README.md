@@ -31,7 +31,7 @@ Bonjour mon nom est Laurie Houde, j'ai 20 ans et je suis finissante en Technique
 
 
 [![Alt text](/media/linkedin.png)
-](https://www.linkedin.com/in/laurie-houde/) [![Alt text](/media/outlook.png)](mailto:lauriehoude12@outlook.comm?Subject=Demande d'information")
+](https://www.linkedin.com/in/laurie-houde/) [![Alt text](/media/outlook.png)]
 ***Lauriehoue12@outlook.com***
 
 
