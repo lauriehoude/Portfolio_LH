@@ -28,9 +28,6 @@ Bonjour mon nom est Laurie Houde, j'ai 20 ans et je suis finissante en Technique
 ### Mes réseaux socieaux ###
 
 
-![lauriehoude](https:/)
-
-
 
 
 ### Mes projets en montage vidéo ###
