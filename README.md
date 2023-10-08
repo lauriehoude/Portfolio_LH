@@ -32,7 +32,7 @@ Bonjour mon nom est Laurie Houde, j'ai 20 ans et je suis finissante en Technique
 
 [![Alt text](/media/linkedin.png)
 ](https://www.linkedin.com/in/laurie-houde/) [![Alt text](/media/outlook.png)]
-***Lauriehoue12@outlook.com***
+
 
 
 
@@ -47,4 +47,4 @@ Le projet EL natura a été réalisé par moi et une autre de mes collègue. Ce 
 
 
 [![EL natura](http://img.youtube.com/vi/AXPsNn52qlw/0.jpg)](https://www.youtube.com/watch?v=AXPsNn52qlw) 
-https://www.youtube.com/watch?v=AXPsNn52qlw&feature=youtu.be
+
