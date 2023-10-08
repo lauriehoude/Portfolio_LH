@@ -31,7 +31,7 @@ Bonjour mon nom est Laurie Houde, j'ai 20 ans et je suis finissante en Technique
 
 
 [![Alt text](/media/linkedin.png)
-](https://www.linkedin.com/in/laurie-houde/) [![Alt text](/media/outlook.png)](mailto:lauriehoude12@outlook.comm?Subject=Demande d'information")
+](https://www.linkedin.com/in/laurie-houde/) [![Alt text](/media/outlook.png)]
 ***Lauriehoue12@outlook.com***
 
 
@@ -44,3 +44,7 @@ Bonjour mon nom est Laurie Houde, j'ai 20 ans et je suis finissante en Technique
  
  ###
 Le projet EL natura a été réalisé par moi et une autre de mes collègue. Ce projet a été filmé avec une macro ce qui permet de voir en détail toutes les textures des éléments filmés. Je décrirais lee projet El natura comme une expérimentation de la nature. 
+
+
+[![EL natura](http://img.youtube.com/vi/AXPsNn52qlw/0.jpg)](https://www.youtube.com/watch?v=AXPsNn52qlw) 
+https://www.youtube.com/watch?v=AXPsNn52qlw&feature=youtu.be
