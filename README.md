@@ -29,6 +29,9 @@ Bonjour mon nom est Laurie Houde, j'ai 20 ans et je suis finissante en Technique
 
 
 
+![linkedin](https://github.com/lauriehoude/Portfolio_lh.github.io/assets/89647723/f2b044fe-ac96-470f-8d7a-b8a79421718a)
+
+
 
 ### Mes projets en montage vidéo ###
 
