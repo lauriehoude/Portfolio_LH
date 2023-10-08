@@ -31,7 +31,7 @@ Bonjour mon nom est Laurie Houde, j'ai 20 ans et je suis finissante en Technique
 
 
 [![Alt text](/media/linkedin.png)
-)](https://www.linkedin.com/in/laurie-houde/)
+](https://www.linkedin.com/in/laurie-houde/)
 
 
 
