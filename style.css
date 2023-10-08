@@ -11,10 +11,6 @@ h3 {
     color: white;
 }
 
-img {
-    border-radius: 100%;
-}
-
 .anchor span {
     color: black;
     text-align: center;
@@ -24,12 +20,12 @@ content {
     padding: 20px;
 }
 
-#mes-projets-en-montage-vidéo p img {
+#mes-projets-en-montage-vidéo img {
     border-radius: 0;
 }
 
 p {
-    padding: 25px;
+    padding: 20px;
 }
 
 a {
