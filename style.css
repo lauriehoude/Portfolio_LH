@@ -1,9 +1,13 @@
 body {
     background-color: rgb(206, 187, 187);
-    color: white;
+    color: black;
     border-radius: 100%;
 }
 
 *h3 {
     color: white;
+}
+
+img {
+    border-radius: 100%;
 }
