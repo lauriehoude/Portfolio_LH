@@ -1,12 +1,12 @@
-## Ralpaga ##
+## CorgiRequin ##
 
 
 
 
 
-### Présentation ###
+### Présentation du projet ###
 
-Bonjour mon nom est Laurie Houde, j'ai 20 ans et je suis finissante en Techniques d'intégration multimédia au Collège Montmorency à Laval. Je suis une passionnée du montage vidéo et de la création de contenus en tout genre autant en design, qu'en audiovisuelle et qu'en vidéo. Je suis assez polyvalente vous allez découvrir dans mes oeuvres.
+Le projet CorgiRequin est un projet de VR qui va donner l'impression d'être sous l'eau. Il va être possible de naviguer sous l'eau à l'aide de deux personnages clés un corgi avec des flotteurs et un requin.
 
 
 
