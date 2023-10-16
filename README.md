@@ -12,9 +12,6 @@ Le projet CorgiRequin est un projet de VR qui va donner l'impression d'être sou
 
 
 
-![lauriehoude](/media/lauriehoude.png)
-
-
 
 
 ### Mes réseaux sociaux ###
