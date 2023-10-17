@@ -22,8 +22,6 @@ Roquo et GiGi sont deux meilleurs amis qui sont parti en mission dans l'ocean At
 
 ## Moodboard visuel ##
 
-
-![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-10](https://github.com/lauriehoude/corgirequin/assets/89647723/27f912af-e2eb-4f7d-993f-19810382d93a)
 ![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-9](https://github.com/lauriehoude/corgirequin/assets/89647723/815b9a3b-7360-4578-98ba-d231e58bc553)
 ![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-8](https://github.com/lauriehoude/corgirequin/assets/89647723/729cdd88-bf4a-47be-8747-12d7c2635483)
 ![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-7](https://github.com/lauriehoude/corgirequin/assets/89647723/cd702f3f-aa96-46ad-89f6-245eaf962813)
@@ -34,6 +32,8 @@ Roquo et GiGi sont deux meilleurs amis qui sont parti en mission dans l'ocean At
 ![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-2](https://github.com/lauriehoude/corgirequin/assets/89647723/120b286f-6fee-40d6-b883-a275d4ca22e2)
 ![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-1](https://github.com/lauriehoude/corgirequin/assets/89647723/8ca1b092-fe4d-4909-9a7e-670785b6d4fb)
 ![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-0](https://github.com/lauriehoude/corgirequin/assets/89647723/eb7e5f65-92ff-4527-ae57-b20ff96d64f9)
+![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-10](https://github.com/lauriehoude/corgirequin/assets/89647723/27f912af-e2eb-4f7d-993f-19810382d93a)
+
 
 
 ## Atribution des tâches ##
