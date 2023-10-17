@@ -22,17 +22,22 @@ Roquo et GiGi sont deux meilleurs amis qui sont parti en mission dans l'ocean At
 
 ## Moodboard visuel ##
 
-![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-9](https://github.com/lauriehoude/corgirequin/assets/89647723/815b9a3b-7360-4578-98ba-d231e58bc553)
-![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-8](https://github.com/lauriehoude/corgirequin/assets/89647723/729cdd88-bf4a-47be-8747-12d7c2635483)
-![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-7](https://github.com/lauriehoude/corgirequin/assets/89647723/cd702f3f-aa96-46ad-89f6-245eaf962813)
-![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-6](https://github.com/lauriehoude/corgirequin/assets/89647723/72c594b9-f0bb-4fc5-94fa-6a7e0466b22e)
-![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-5](https://github.com/lauriehoude/corgirequin/assets/89647723/5c104c3f-8af3-4a3e-a5cc-46d4139175ae)
-![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-4](https://github.com/lauriehoude/corgirequin/assets/89647723/019bfda7-a6d2-4fe8-b094-c4d80133b846)
-![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-3](https://github.com/lauriehoude/corgirequin/assets/89647723/7c8b4f55-f906-4e10-9cc9-ae596479a7e1)
-![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-2](https://github.com/lauriehoude/corgirequin/assets/89647723/120b286f-6fee-40d6-b883-a275d4ca22e2)
-![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-1](https://github.com/lauriehoude/corgirequin/assets/89647723/8ca1b092-fe4d-4909-9a7e-670785b6d4fb)
+
+
 ![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-0](https://github.com/lauriehoude/corgirequin/assets/89647723/eb7e5f65-92ff-4527-ae57-b20ff96d64f9)
+![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-1](https://github.com/lauriehoude/corgirequin/assets/89647723/8ca1b092-fe4d-4909-9a7e-670785b6d4fb)
+![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-2](https://github.com/lauriehoude/corgirequin/assets/89647723/120b286f-6fee-40d6-b883-a275d4ca22e2)
+![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-3](https://github.com/lauriehoude/corgirequin/assets/89647723/7c8b4f55-f906-4e10-9cc9-ae596479a7e1)
+![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-4](https://github.com/lauriehoude/corgirequin/assets/89647723/019bfda7-a6d2-4fe8-b094-c4d80133b846)
+![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-5](https://github.com/lauriehoude/corgirequin/assets/89647723/5c104c3f-8af3-4a3e-a5cc-46d4139175ae)
+![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-6](https://github.com/lauriehoude/corgirequin/assets/89647723/72c594b9-f0bb-4fc5-94fa-6a7e0466b22e)
+![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-7](https://github.com/lauriehoude/corgirequin/assets/89647723/cd702f3f-aa96-46ad-89f6-245eaf962813)
+![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-8](https://github.com/lauriehoude/corgirequin/assets/89647723/729cdd88-bf4a-47be-8747-12d7c2635483)
+![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-9](https://github.com/lauriehoude/corgirequin/assets/89647723/815b9a3b-7360-4578-98ba-d231e58bc553)
 ![38f646b220ba43f494f310f31a96f610Zu8q202KXVzdjbeE-10](https://github.com/lauriehoude/corgirequin/assets/89647723/27f912af-e2eb-4f7d-993f-19810382d93a)
+
+
+
 
 ## Moodboard sons ##
 
