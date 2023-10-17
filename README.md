@@ -25,7 +25,7 @@ Roquo et GiGi sont deux meilleurs amis qui sont parti en mission dans l'ocean At
 [Trello](https://trello.com/b/JYAyEVmf/corgirequin)
 
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/lauriehoude/corgirequin/assets/89647723/5794a156-8b70-4742-af7e-69bea3434fce)
 
 
 
-<img width="1886" alt="Capture" src="https://github.com/lauriehoude/corgirequin/assets/89647723/a42c71ca-a95a-4fa8-a402-ae27e8e9027b">
