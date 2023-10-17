@@ -23,3 +23,9 @@ Roquo et GiGi sont deux meilleurs amis qui sont parti en mission dans l'ocean At
 
 
 [Trello](https://trello.com/b/JYAyEVmf/corgirequin)
+
+
+
+
+
+<img width="1886" alt="Capture" src="https://github.com/lauriehoude/corgirequin/assets/89647723/a42c71ca-a95a-4fa8-a402-ae27e8e9027b">
