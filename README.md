@@ -54,7 +54,8 @@ Roquo et GiGi sont deux meilleurs amis qui sont parti en mission dans l'ocean At
 
 ## Schéma d'interactivité ##
 
-![Diagramme sans nom drawio (3)](https://github.com/lauriehoude/corgirequin/assets/89647723/548bc301-26c8-41f1-83a0-bec96f00bb35)
+
+![Diagramme sans nom drawio (3)](https://github.com/lauriehoude/corgirequin/assets/89647723/52ffa613-1546-41c0-90cb-eaf6aedd3669)
 
 
 ## Plan ##
