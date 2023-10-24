@@ -38,10 +38,7 @@ Roquo et GiGi sont deux meilleurs amis qui sont parti en mission dans l'ocean At
 
 ## Palette de couleurs ##
 
-<img src="https://github.com/lauriehoude/corgirequin/assets/89647723/5ae4a7c7-cce7-4d43-a64b-fbbe9095a36a
- " width="500px"> 
-<img src="https://github.com/lauriehoude/corgirequin/assets/89647723/6f636398-90f2-41e5-8acd-89a4af1360a6
- " width="500px"> 
+
 ![Capture](https://github.com/lauriehoude/corgirequin/assets/89647723/8cd68d08-6528-4824-8138-10800c35d014)
 
 lol
