@@ -44,7 +44,7 @@ Roquo, GiGi et Pigui sont des meilleurs amis qui sont parti en mission dans l'oc
 
 
 ## Moodboard sons ##
-[Moodboard de sons ](https://cmontmorency365-my.sharepoint.com/:p:/r/personal/2052728_cmontmorency_qc_ca/Documents/Water%20Thesis%20by%20Slidesgo.pptx?d=w657f25f303fe4a9da8e7b8bb895ada2e&csf=1&web=1&e=cTxmaq)
+[Moodboard de sons ](https://cmontmorency365-my.sharepoint.com/:p:/g/personal/2052728_cmontmorency_qc_ca/EfMlf2X-A51KqOe4u4la2i4Bgdgq77SAIuNMWHTI2Rp9cg?e=67QyBK)
 
 
 ## Atribution des tâches ##
