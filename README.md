@@ -40,8 +40,9 @@ Roquo et GiGi sont deux meilleurs amis qui sont parti en mission dans l'ocean At
 
 
 ![Capture](https://github.com/lauriehoude/corgirequin/assets/89647723/8cd68d08-6528-4824-8138-10800c35d014)
+![under water](https://github.com/lauriehoude/corgirequin/assets/89647723/41b5ea50-9cbb-4e3b-b5d7-6fd3f1af5a42)
 
-lol
+
 ## Moodboard sons ##
 [Moodboard de sons ](https://cmontmorency365-my.sharepoint.com/:p:/r/personal/2052728_cmontmorency_qc_ca/Documents/Water%20Thesis%20by%20Slidesgo.pptx?d=w657f25f303fe4a9da8e7b8bb895ada2e&csf=1&web=1&e=cTxmaq)
 
