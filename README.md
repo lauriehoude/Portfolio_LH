@@ -17,7 +17,7 @@ Corgirequin se déroule dans l'océan comme j'ai mentionné plus tôt. Notre pro
 
 ## Synopsis ##
 
-Roquo et GiGi sont deux meilleurs amis qui sont parti en mission dans l'ocean Atlantique afin de trouver un trésor caché dans le fond marin. Ce trésor a été protéger par des pirates pendant très longtemps et aujourd'hui nous avons aucune nouvelle des pirates. Sont-ils encore vivant? Roquo et Gigi vont découvrir la vérité.
+Roquo, GiGi et Pigui sont des meilleurs amis qui sont parti en mission dans l'ocean Atlantique afin de trouver un trésor caché dans le fond marin. Ce trésor a été protéger par des pirates pendant très longtemps et aujourd'hui nous avons aucune nouvelle des pirates. Sont-ils encore vivant? Roquo, Gigi et Pigui vont découvrir la vérité.
 
 
 ## Moodboard visuel ##
