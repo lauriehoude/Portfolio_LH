@@ -12,7 +12,7 @@ Le projet Corgirequin est un projet de VR qui va donner l'impression d'être sou
 ### Description ###
 
 
-Corgirequin se déroule dans l'océan comme j'ai mentionné plus tôt. Notre projet s'inspire de la plongé sous-marine. Premièrement, on veut que l'utilisateur choisi son personnage soit le corgi ou soit le requin. Les personnages vont avoir un bracelet qui va leur permettre de s'éluminer et d'éluminer l'environnement avec leurs corps. De plus, les utilisateurs vont nagés à travers les yeux du personage. Pour ce qui est de l'environnement, il va avoir des grottes, des coraux, des algues, des plantes et  des petits animaux marins. Les fond marins vont être très noir de base, mais les personnages vont les éclairer en passant près de eux. Le but est de ramasser 8 coquillages pour accéder au trésor.
+Corgirequin se déroule dans l'océan comme j'ai mentionné plus tôt. Notre projet s'inspire de la plongé sous-marine. Premièrement, on veut que l'utilisateur choisi son personnage soit le corgi ou soit le requin. Les personnages vont avoir un bracelet qui va leur permettre de s'éluminer et d'éluminer l'environnement avec leurs corps. De plus, les utilisateurs vont nagés à travers les yeux du personage. Pour ce qui est de l'environnement, il va avoir des grottes, des coraux, des algues, des plantes et  des petits animaux marins. Les fond marins vont être très noir de base, mais les personnages vont les éclairer en passant près de eux. Le but est de ramasser 8 coquillages pour accéder au trésor en 2 minutes. 
 
 
 ## Synopsis ##
